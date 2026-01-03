@@ -272,7 +272,7 @@ function App() {
               {darkMode ? <Sun size={20} /> : <Moon size={20} />}
             </button>
             <div className="w-8 h-8 bg-gradient-to-tr from-accent to-blue-500 rounded-full flex items-center justify-center text-white text-xs font-bold shadow-lg shadow-accent/20">
-              JS
+              SN
             </div>
           </div>
         </header>
